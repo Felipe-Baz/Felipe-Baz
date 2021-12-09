@@ -3,10 +3,11 @@
 + Sou estudante de computação pela Universidade Federal de São Paulo. Estou no sexto semestre de Engenharia de Computação.
 + Atualmente estou aprendendo desenvolvimento Mobile Android.
 + Tecnologias Conhecidas:
-	 + Inteligencia Artificial:
-	 	 + Redes Neurais
-		 + Machine Learning - Semi-Supervisionado
-		 + Machine Learning - Supervisionado
+	 + :computer: Inteligencia Artificial:
+	 	 + :robot: Redes Neurais
+		 + :repeat_one: Machine Learning
+		 	 + Semi-Supervisionado
+			 + Supervisionado
 	 + Back-end:
 	 	 + .NET
 		 + Python 3
