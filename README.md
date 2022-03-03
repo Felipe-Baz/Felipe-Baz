@@ -27,6 +27,7 @@
 		 + Css
 		 + JavaScript
 		 + Angular
+		 + React
 	 + Desktop:
 		 + python 3
 		 + C
