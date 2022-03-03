@@ -11,6 +11,9 @@
 	 + Back-end:
 	 	 + .NET
 		 + Python 3
+		 + kotlin + Micronaut
+		 + kotlin + Springboot 
+		 + Nodejs
 	 + Provedores Cloud:
 	 	 + AWS:
 		 	 + Lambdas
