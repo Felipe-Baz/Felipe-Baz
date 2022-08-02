@@ -1,7 +1,8 @@
+
 ### Olá, meu nome é Felipe Baz Mitsuishi
 
-+ Sou estudante de computação pela Universidade Federal de São Paulo. Estou no sexto semestre de Engenharia de Computação.
-+ Atualmente estou aprendendo desenvolvimento Mobile Android.
++ Sou estudante de computação pela Universidade Federal de São Paulo e trabalho atualmente com Backend e iOS nativo com swift.
+
 + Tecnologias Conhecidas:
 	 + :computer: Inteligencia Artificial:
 	 	 + :robot: Redes Neurais
@@ -9,22 +10,30 @@
 		 	 + Semi-Supervisionado
 			 + Supervisionado
 	 + Back-end:
-	 	 + .NET
-		 + Python 3
-		 + kotlin + Micronaut
-		 + kotlin + Springboot 
-		 + Nodejs
+		 + REST:
+			 + C# .NET
+			 + Python 3
+			 + kotlin + Micronaut
+			 + kotlin + Springboot 
+			 + Nodejs
+		 + gRPC:
+			 + kotlin + Micronaut
 	 + Provedores Cloud:
 	 	 + AWS:
 		 	 + Lambdas
 			 + DynamoDB
 			 + API Gateway
+			 + RNS
 			 + S3
+			 + SES
 			 + IAM - Polices, Roles, Users, Groups
 		 + IBM Cloud
 		 	 + Functions
 			 + Functions Sequence
 			 + watson 
+		 + Google Cloud:
+			 + Big Query
+			 + Firebase
 	 + Front-end:
 	 	 + HTML
 		 + Css
@@ -38,6 +47,10 @@
 		 + Java
 		 + Assembly
 		 + C++
+	 + Mobile:
+		 + Flutter
+		 + iOS:
+			 + Swift
 
  <div>
   <a href="https://github.com/Felipe-Baz">
