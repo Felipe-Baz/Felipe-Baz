@@ -40,6 +40,7 @@
 		 + JavaScript
 		 + Angular
 		 + React
+		 + Nextjs
 	 + Desktop:
 		 + python 3
 		 + C
