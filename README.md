@@ -16,8 +16,10 @@
 			 + kotlin + Micronaut
 			 + kotlin + Springboot 
 			 + Nodejs
+			 + Golang
 		 + gRPC:
 			 + kotlin + Micronaut
+			 + Golang
 	 + Provedores Cloud:
 	 	 + AWS:
 		 	 + Lambdas
